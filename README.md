@@ -50,3 +50,6 @@ POST /api/v1/titles/
     "category": "films"
 }
 ```
+
+
+Автор: [Игорь Любаев](https://github.com/Igor-L12)
